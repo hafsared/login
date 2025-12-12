@@ -3,6 +3,14 @@
     "email": "coach.hast@gmail.com",
     "password": "coachpro12"
   },
+   {
+    "email": "hafsa@gmail.com",
+    "password": "hafsa12"
+  },
+   {
+    "email": "aya@gmail.com",
+    "password": "aya12"
+  },
   {
     "email": "seller.hast@gmail.com",
     "password": "sellergym9"
@@ -28,3 +36,4 @@
     "password": "testerpwd"
   }
 ]
+
