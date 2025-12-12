@@ -1,9 +1,5 @@
 [
   {
-    "email": "coach.hast@gmail.com",
-    "password": "coachpro12"
-  },
-   {
     "email": "hafsa@gmail.com",
     "password": "hafsa12"
   },
@@ -36,4 +32,5 @@
     "password": "testerpwd"
   }
 ]
+
 
