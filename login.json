@@ -1,36 +1,50 @@
 [
   {
+    "email": "admin@gmail.com",
+    "password": "123456",
+    "name": "Admin"
+  },
+  {
     "email": "hafsa@gmail.com",
     "password": "hafsa12"
+     "name": "Hafsa"
   },
    {
     "email": "aya@gmail.com",
     "password": "aya12"
+      "name": "Aya"
   },
   {
     "email": "seller.hast@gmail.com",
     "password": "sellergym9"
+     "name": "Admin"
   },
   {
     "email": "support.hast@gmail.com",
     "password": "support2024"
+     "name": "Support"
   },
   {
     "email": "delivery.hast@gmail.com",
     "password": "deliverx55"
+     "name": "Delivery"
   },
   {
     "email": "store.manager@gmail.com",
     "password": "manager88"
+     "name": "Manager"
   },
   {
     "email": "marketing.hast@gmail.com",
     "password": "market2025"
+     "name": "Marketing"
   },
   {
     "email": "tester.hast@gmail.com",
     "password": "testerpwd"
+     "name": "Tester"
   }
 ]
+
 
 
